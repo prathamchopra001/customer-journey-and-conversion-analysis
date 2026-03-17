@@ -1,6 +1,4 @@
-https://github.com/prathamchopra001/customer-journey-and-conversion-analysis.githttps://github.com/prathamchopra001/customer-journey-and-conversion-analysis.git
-
-# Customer Journey & Conversion Analytics
+Customer Journey & Conversion Analytics
 
 A comprehensive e-commerce user behavior analysis project using event-level data from a cosmetics shop. This project tracks the user journey from initial product discovery to final purchase, identifying critical drop-off points and high-converting segments.
 
