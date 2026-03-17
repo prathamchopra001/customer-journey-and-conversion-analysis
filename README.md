@@ -12,6 +12,13 @@ This project provides an end-to-end data pipeline to:
 4. **Visualize Trends:** Monitors user activity over time.
 5. **Interactive Dashboard:** A Streamlit-based application for real-time data exploration.
 
+## Results
+
+![Overview](Results/Overview.png)
+![User_Activity](Results/User_Activity.png)
+![Category_Conversion](Results/Category_conversion_analysis.png)
+![A-B_Testing_and_Insights](Results/A-B_Testing_and_Insights.png)
+
 ## 📊 Dataset
 
 The project utilizes the [e-commerce-events-history-in-cosmetics-shop](https://www.kaggle.com/mkechinov/ecommerce-events-history-in-cosmetics-shop) dataset, which includes millions of user actions (view, cart, purchase, remove_from_cart).
